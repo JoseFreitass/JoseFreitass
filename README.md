@@ -1,5 +1,6 @@
 
-  ##Olá, Eu sou o José Henrique Freitas:
+ <h1>
+  Olá, Eu sou o José Henrique Freitas:
 </h1>
 
 <h3>
@@ -9,6 +10,10 @@
 <h3>
 - Gosto de completar desafios, participar de bootcamps e maratonas!
 </h3>
+
+<div>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseFreitass&layout=compact&theme=github_dark"/>
+<div>
 
 <br>
   <h3>Minhas Habilidades:</h3>
